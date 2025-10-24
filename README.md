@@ -20,7 +20,7 @@ Airport/
 ├── files/
 │   ├── Airport.java    # Revenue calculation and flight management
 │   ├── Flight.java     # Flight data model (passengers, price, capacity)
-│   └── Main.java       # Demo with hardcoded test flights
+│   └── main.java       # Demo with hardcoded test flights
 └── README.md
 ```
 
@@ -45,7 +45,7 @@ Airport/
 
 3. **Run the program**
    ```bash
-   java Main
+   java main
    ```
 
 ## 💡 Sample Output
